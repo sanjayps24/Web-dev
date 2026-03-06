@@ -1,1 +1,13 @@
 
+*{
+  color:red;
+  background-color:paleblue;
+  text-border:1px solid black;
+  text-decoration:underline;
+  text-align:center;
+}
+.h1{
+  text-border:3px solid blue;
+  text-decoration:linethrough;
+}
+
